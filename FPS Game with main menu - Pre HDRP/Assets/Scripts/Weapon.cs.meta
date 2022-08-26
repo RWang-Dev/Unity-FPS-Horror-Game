@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2a1b1ac9d4a570e4f91619bb2f56c3df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weaponParent: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - muzzleFlashCrouched: {instanceID: 0}
+  - ammoDisplay: {instanceID: 0}
+  - bulletholePrefab: {instanceID: 0}
+  - ImpactParticlePrefab: {instanceID: 0}
+  - BloodPrefab: {instanceID: 0}
+  - Hip: {instanceID: 0}
+  - ADS: {instanceID: 0}
+  - shootSound: {instanceID: 0}
+  - bulletTrail: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

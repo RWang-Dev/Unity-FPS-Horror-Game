@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98d27606102102843bc884de31b5da09, type: 3}
+  m_Name: Actual Gun
+  m_EditorClassIdentifier: 
+  name: 
+  impactForce: 0
+  damage: 200
+  aimSpeed: 10
+  prefab: {fileID: 7899024857426144156, guid: 15b46ec0beaff1a4fb0cd0f99b3f1447, type: 3}
+  maxAmmo: 10
+  reloadSpeed: 1.5
+  bloom: 10
+  aim_bloom: 5
+  crouch_bloom: 2
+  recoil: 7
+  aim_recoil: 5
+  crouch_recoil: 3
+  kickback: 0.3
+  aim_kickback: 0.2
+  crouch_kickback: 0.1
+  firerate: 0.2
