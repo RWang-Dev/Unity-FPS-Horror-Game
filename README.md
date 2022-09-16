@@ -1,7 +1,7 @@
-# Unity-First-Person-Shooter-Horror-Game
+# Unity FPS horror game
 # Used Unity engine version 2020.3.12f1
 
-One of my first fully functional levels in an FPS style game created using Unity Game Engine, Blender, C#, and Visual Studio. 
+One of my first fully functional levels in a first person shooter(FPS) style game created using Unity Game Engine, Blender, C#, and Visual Studio. 
 All of the 3d models present on the scene were made by me using Blender, although you might find a few models here and there that I downloaded, but did not end up using.
 The file is large and there are many hand placed 3D models, so the game might be laggy if not run on a proper computer.
 
